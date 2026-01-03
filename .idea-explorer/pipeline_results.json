@@ -11,7 +11,7 @@
       },
       "log_file": "/data/hypogenicai/workspaces/hide-prompts-length-gemini/logs/resource_finder_gemini.log",
       "transcript_file": "/data/hypogenicai/workspaces/hide-prompts-length-gemini/logs/resource_finder_gemini_transcript.jsonl",
-      "elapsed_time": 117.28696751594543
+      "elapsed_time": 315.4170455932617
     }
   },
   "work_dir": "/data/hypogenicai/workspaces/hide-prompts-length-gemini"
