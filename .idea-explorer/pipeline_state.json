@@ -3,8 +3,8 @@
   "stages": {
     "resource_finder": {
       "status": "failed",
-      "started_at": "2026-01-03T15:57:05.913833",
-      "completed_at": "2026-01-03T16:02:21.332722",
+      "started_at": "2026-01-03T16:31:54.827027",
+      "completed_at": "2026-01-03T16:39:07.566713",
       "success": false,
       "outputs": {
         "papers_dir": "/data/hypogenicai/workspaces/hide-prompts-length-gemini/papers",
